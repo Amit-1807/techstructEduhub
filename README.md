@@ -1,1 +1,1 @@
-# techstructEduhub
+# TechstructEduhub
